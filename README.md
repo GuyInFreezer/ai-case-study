@@ -8,6 +8,10 @@ Clearview.AI is a company that focuses on AI-powered facial recognition software
 
 ## Business Activities
 
+> Clearview AI’s mission is to create and deliver identification technology that helps combat crime and fraud, keep communities safe and industry and commerce secure, protect victims and promote justice.
+> 
+> We aim to help protect the public through processes that are consistent with protecting fundamental freedoms and human rights. We have developed and applied best practices to all uses and every user of our identity solutions.
+
 * What specific problem is the company or project trying to solve? Facial Recognition in order to aid law enforcement
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers? Intended usage for law enforcement, apparently trying to branch out to private sectors.
@@ -46,3 +50,5 @@ If I was to advice ths company on what services that they could offer, I would o
 
 ## Sites used for the case study
 * **[Hoan Ton-That's personal site](https://hoantonthat.com/)** 
+* **[Crunchbase result of Clearview AI](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/clearview-ai)**
+* **[Clearview AI official Site](https://www.clearview.ai/)**
