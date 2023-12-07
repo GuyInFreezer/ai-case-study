@@ -12,43 +12,29 @@ Clearview.AI is a company that focuses on AI-powered facial recognition software
 > 
 > We aim to help protect the public through processes that are consistent with protecting fundamental freedoms and human rights. We have developed and applied best practices to all uses and every user of our identity solutions.
 
-* What specific problem is the company or project trying to solve? Facial Recognition in order to aid law enforcement
+Clearview AI offers top-of-the-technology facial recognition software intended for the law enforcement agents to easily identify perpetuators and victims of any criminal activities. They also look to reach out to more private sectors, such as school network.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers? Intended usage for law enforcement, apparently trying to branch out to private sectors.
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+According to the interview done by Washington Post in April 2022, Clearview AI's database contains over 20 billion images that are scraped only from the public without bias, and explicitly works with law enforcements which totals up to over 3,000 agencies. The interview shows that Clearview AI's algorithm ranked second from over 650 algorithms worldwide and first in US tested by *NIST* (National Institute of Standard and Technology), which gives the comapny a huge advantage when being chosen by the law enforcement agencies.
 
 ## Landscape
 
-* What field is the company in?
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+As mentioned earlier, Clearview AI focuses on providing facial recognition technologies to law enforcement in order to aid crime investigation and prevention. Research showed that while there are many other companies that provide facial recognition softwares, Clearview AI was the only company that specifically targets law enforcement for their facial recognition services.
 
 ## Results
 
-* What has been the business impact of this company so far?
+Clearview AI's so-called "unconsented" image scraping from social media posts caused an uproar, albeit the scraping was only done from public posts. Clearview AI only recently won their appeal in UK court from $9 million fine for the breach of data protection and privacy.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+This appeal victory sets up an important precedence in terms of morality of scraping photos and dats from public posts, which is bound to promote legal data scraping for facial recognition databases.
 
-* How is your company performing relative to competitors in the same field?
+While any information on how the algorithm is written or what technology is being used for is unavailable on public, most likely due to its connection to law enforcement, ranking first in US and it being used by various law enforcement agencies that includes FBI and CIA, and having basically no alternative in this specific usage of the software assures the company's huge success.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-If I was to advice ths company on what services that they could offer, I would offer them 
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Given the company's huge success in providing precise and fast facial recognition, offering their services to public schools could definitely help the company's goal of reducing criminal activities since many public schools tend to be the target of criminal activities such as shooting.
 
 ## Sites used for the case study
 * **[Hoan Ton-That's personal site](https://hoantonthat.com/)** 
 * **[Crunchbase result of Clearview AI](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/clearview-ai)**
 * **[Clearview AI official Site](https://www.clearview.ai/)**
+* **[WP Interview with Hoan Ton-That on 04/27/2022](https://www.washingtonpost.com/washington-post-live/2022/04/27/transcript-path-forward-facial-recognition-technology-with-hoan-ton-that/)**
+* **[Clearview AI Successfully Appeals $9 Million Fine in the U.K.](https://www.washingtonpost.com/washington-post-live/2022/04/27/transcript-path-forward-facial-recognition-technology-with-hoan-ton-that/)**
